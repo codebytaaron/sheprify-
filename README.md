@@ -1,5 +1,3 @@
-# sheprify-
-
 # Sherpify - AI-Powered Growth for Small Businesses
 
 A clean, modern single-page website showcasing **Sherpify** – AI-powered solutions for small businesses (Feb 2023 - May 2025).
